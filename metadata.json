@@ -1,0 +1,6 @@
+{
+  "name": "RPC — Rocket Propulsion Centre | COEP Technological University",
+  "description": "Official portal of the Rocket Propulsion Centre (RPC), COEP Technological University, Pune. Engineering sounding rockets, solid and hybrid propulsion, and flight systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
